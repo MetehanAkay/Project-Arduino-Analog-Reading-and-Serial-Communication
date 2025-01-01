@@ -1,0 +1,1 @@
+In this project, I created a simple analog reading and serial communication application using an Arduino board. The objective was to read analog values from a potentiometer and send these values to a computer via serial communication.
